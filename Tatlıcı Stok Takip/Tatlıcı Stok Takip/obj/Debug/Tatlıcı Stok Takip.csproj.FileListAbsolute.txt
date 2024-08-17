@@ -1,0 +1,11 @@
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\bin\Debug\Tatlıcı Stok Takip.exe.config
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\bin\Debug\Tatlıcı Stok Takip.exe
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\bin\Debug\Tatlıcı Stok Takip.pdb
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\Debug\Tatlıcı Stok Takip.csproj.AssemblyReference.cache
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\Debug\Tatlıcı_Stok_Takip.Form1.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\Debug\Tatlıcı_Stok_Takip.Properties.Resources.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\Debug\Tatlıcı Stok Takip.csproj.GenerateResource.cache
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\Debug\Tatlıcı Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\Debug\Tatlıcı Stok Takip.exe
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\Debug\Tatlıcı Stok Takip.pdb
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\bin\Debug\StokTakip.mdb

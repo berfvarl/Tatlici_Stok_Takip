@@ -1,0 +1,22 @@
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\bin\x64\Debug\StokTakip.mdb
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\bin\x64\Debug\Tatlıcı Stok Takip.exe.config
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\bin\x64\Debug\Tatlıcı Stok Takip.exe
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\bin\x64\Debug\Tatlıcı Stok Takip.pdb
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı Stok Takip.csproj.AssemblyReference.cache
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.Form1.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.Properties.Resources.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı Stok Takip.csproj.GenerateResource.cache
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı Stok Takip.exe
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı Stok Takip.pdb
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.anamenu.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.yardim.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.kategori.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.urunTuru.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.urunEkle.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.kullaniciEkle.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.musteriEkle.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.menuekle.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.menusil.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.menuduzenle.resources
+C:\Users\berfi\source\repos\Tatlıcı Stok Takip\Tatlıcı Stok Takip\obj\x64\Debug\Tatlıcı_Stok_Takip.aramayap.resources
